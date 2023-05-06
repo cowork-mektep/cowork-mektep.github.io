@@ -1,0 +1,16 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+@media (min-width: 992px) {
+	.flex {
+		flex: 0 0 12%;
+	}
+}
+
+.arytyr {
+		margin-bottom: 100px;
+	}
